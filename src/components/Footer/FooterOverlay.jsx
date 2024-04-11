@@ -10,4 +10,3 @@ const FooterOverlay = () => (
 );
 
 export default FooterOverlay;
-// app__footerOverlay app__footerOverlay-black app__footerOverlay-img
